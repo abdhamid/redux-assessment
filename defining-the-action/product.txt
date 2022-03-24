@@ -1,0 +1,15 @@
+{
+    type: "productAdded",
+    payload: {
+        id:
+        quantity: 4
+    }
+}
+
+{
+    type: "productRemoved",
+    payload: {
+        id:
+        quantity: 2
+    }
+}

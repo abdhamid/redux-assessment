@@ -1,0 +1,11 @@
+[
+    product: {
+        id: 1,
+        name: 'product 1',
+        price: 1500,
+        hasDiscount: true,   
+    },
+    product: {...},
+    product: {...},
+    product: {...},
+]

@@ -1,0 +1,14 @@
+{
+    id:
+    name:
+    cart: {
+        id: 1,
+        products:
+        [
+            product: {..},
+            product: {..},
+            product: {..},
+            product: {..},
+        ],
+    }
+}
